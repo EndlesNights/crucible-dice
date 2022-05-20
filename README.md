@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Foundry-v9.242-informational)
-## Dice So Nice - Crucible Dice Dice Set 
+## Dice So Nice - Crucible Dice Dice Set
 
 * **Author**: EndlesNights#9000
 * **Version**: 0.0.0
