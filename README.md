@@ -2,7 +2,7 @@
 ## Dice So Nice - Crucible Dice Dice Set
 
 * **Author**: EndlesNights#9000
-* **Version**: 0.0.0
+* **Version**: v1.0.0
 * **Foundry VTT Compatibility**: 0.7.2 to v9
 * **System Compatibility**: Universal
 * **Module Dependency**: Dice So Nice! Version 3.0.0+

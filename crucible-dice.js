@@ -1,11 +1,11 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addSystem({id: "crucible-dice", name: "Crucible Dice"}, false);
-	// dice3d.addDicePreset({
-	// 	type: "d2",
-	// 	labels: "",
-	// 	modelFile: "modules/crucible-dice/crucible_d2.glb",
-	// 	system: "crucible-dice"
-	// });
+	dice3d.addDicePreset({
+		type: "d2",
+		labels: "",
+		modelFile: "modules/crucible-dice/crucible_d2.glb",
+		system: "crucible-dice"
+	});
 	dice3d.addDicePreset({
 		type: "d4",
 		labels: "",
